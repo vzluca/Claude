@@ -32,8 +32,9 @@ hasta u$s 650 único (ACM inmobiliario, compra).
 
 - **Tono**: joven y profesional, voseo argentino, claro antes que técnico. Ver `../brand/manual-de-marca.md`.
 - **Idioma**: español (Argentina).
-- **Color**: Rojo REDLABS `#EE2B24` (brand book) / `#E4222A` (web) + neutros.
-- **Instagram**: @redlabs · **Email**: hola@redlabs.com (sitio) / hola@redlabs.io (brand book) — confirmar dominio.
+- **Color**: Rojo REDLABS `#E4222A` (+ rojo claro `#FF5A5F`) sobre neutros oscuros.
+- **Tipografía**: Space Grotesk (títulos) + Inter (texto).
+- **Instagram**: @redlabs · **Email**: hola@redlabs.com.
 - **Sitio**: proyecto `redlabs-site`, hosteado en Firebase.
 
 ## Equipo

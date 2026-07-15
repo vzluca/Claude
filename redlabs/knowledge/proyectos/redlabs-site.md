@@ -11,12 +11,12 @@
 
 ## Estado actual
 
-Construido y desplegado (julio 2026). Pendientes conocidos:
+Construido y desplegado (julio 2026). **El sitio es la referencia oficial de la identidad de
+marca** (colores, tipografía y sistema visual — ver `../../brand/manual-de-marca.md`).
+
+Pendiente conocido:
 
 - El link de WhatsApp del contacto es un placeholder (`wa.me/5490000000000`) — poner el número real.
-- Email del sitio (`hola@redlabs.com`) difiere del brand book (`hola@redlabs.io`) — unificar dominio.
-- Tipografías y rojo del sitio difieren del Brand Book v1.1 (ver `../../brand/manual-de-marca.md`)
-  — decidir si se alinea el sitio al book o al revés.
 
 ## Notas y decisiones propias del proyecto
 
