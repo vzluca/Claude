@@ -1,8 +1,9 @@
 # Skills instaladas
 
 Colección de skills para Claude Code. Cada subdirectorio con un `SKILL.md` es una skill.
-Para usarlas en una máquina, sincroniza este directorio con `~/.claude/skills/` (skills personales)
-o con `.claude/skills/` dentro de un proyecto.
+Al estar en `.claude/skills/`, Claude Code las detecta automáticamente en cualquier sesión
+sobre este repositorio (incluidas las sesiones web/remotas). Para usarlas globalmente en tu
+máquina, copiá este directorio a `~/.claude/skills/`.
 
 ## Fuentes
 

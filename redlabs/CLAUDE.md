@@ -14,11 +14,21 @@ relevantes antes de responder o generar código.
 
 ## Estructura
 
-- `knowledge/empresa.md` — qué es RedLabs: misión, servicios, público, tono de marca.
-- `knowledge/stack.md` — stack tecnológico y convenciones de código.
+- `knowledge/empresa.md` — qué es RedLabs: misión, modelo de negocio, público, estado actual.
+- `knowledge/servicios.md` — catálogo de servicios, combos y precios (resumen del Centro de INFO).
+- `knowledge/stack.md` — stack tecnológico y convenciones.
 - `knowledge/proyectos/` — un archivo por proyecto (usar `_plantilla.md` como base).
 - `knowledge/clientes.md` — clientes y contactos clave.
 - `knowledge/decisiones.md` — registro de decisiones (architecture decision log).
+- `brand/manual-de-marca.md` — colores, tipografía, logos, tono de voz. **Leer antes de diseñar
+  cualquier pieza visual o escribir copy de RedLabs.**
+- `brand/logos/` — isotipos, lockups y favicon en SVG/PNG.
+
+## Fuentes de verdad externas (Google Drive)
+
+- Planilla **"Centro_de_INFO_RedLabs_v2"** — catálogo completo de servicios, precios y stack.
+- Carpeta **"REDLABS"** — identidad visual y assets.
+- Carpeta **"redlabs-site"** — copia del sitio web desplegado.
 
 ## Reglas
 
