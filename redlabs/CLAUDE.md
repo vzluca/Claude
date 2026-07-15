@@ -22,11 +22,18 @@ relevantes antes de responder o generar código.
 - `knowledge/decisiones.md` — registro de decisiones (architecture decision log).
 - `brand/manual-de-marca.md` — colores, tipografía, logos, tono de voz. **Leer antes de diseñar
   cualquier pieza visual o escribir copy de RedLabs.**
+- `brand/REDLABS-manual-de-marca.pdf` — el manual en formato presentación (11 páginas), para
+  compartir con clientes/colaboradores. Fuente editable en `brand/book-src/brandbook.html`
+  (se regenera con Chromium headless: `chrome --headless --print-to-pdf`).
 - `brand/logos/` — isotipos, lockups y favicon en SVG/PNG.
+- `knowledge/datos/Centro_de_INFO_RedLabs_v2.xlsx` — **copia local del Centro de INFO: catálogo
+  completo de servicios, precios, combos y stack. Fuente de verdad para cotizar.**
+- `claude-project/` — kit para armar el Proyecto "RedLabs" en claude.ai (instrucciones + qué subir).
 
 ## Fuentes de verdad externas (Google Drive)
 
-- Planilla **"Centro_de_INFO_RedLabs_v2"** — catálogo completo de servicios, precios y stack.
+- Planilla **"Centro_de_INFO_RedLabs_v2"** — versión viva del catálogo (la copia local está en
+  `knowledge/datos/`; si difieren, manda la de Drive).
 - Carpeta **"REDLABS"** — identidad visual y assets.
 - Carpeta **"redlabs-site"** — copia del sitio web desplegado.
 
