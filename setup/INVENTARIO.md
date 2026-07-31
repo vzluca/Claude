@@ -1,6 +1,6 @@
 # 📦 Inventario completo de lo instalado
 
-Todo esto vive en el repo `vzluca/Claude`. **83 skills + 1 comando + 1 servidor MCP + 2 CLIs.**
+Todo esto vive en el repo `vzluca/Claude`. **84 skills + 1 comando + 1 servidor MCP + 2 CLIs.**
 Las skills funcionan en **Claude Code** (se auto-activan según tu pedido). Para invocarlas a mano
 escribís `/nombre`.
 
@@ -125,6 +125,11 @@ todos tus proyectos: `claude mcp add -s user headroom -- uvx --from "headroom-ai
 | `claude-api` | Referencia de la API de Claude (modelos, precios, tool use, caching) |
 | `mcp-builder` | Crear servidores MCP (Python o TypeScript) |
 | `graphify` | Mapea un proyecto en un grafo de conocimiento (necesita el CLI `graphifyy`) |
+
+### ⚙️ Automatización — n8n (1, hecha a medida para RedLabs)
+| Skill | Para qué |
+|---|---|
+| `n8n-flows` | Construir, depurar y **entregar** flujos de n8n con tu stack real (WhatsApp/360dialog, Sheets, OpenAI, Apify, Meta, Firebase) y tu modelo de negocio (precio por nodos, alquiler/compra). Se apoya en `redlabs/knowledge/`. |
 
 ### 🧭 Descubrir más skills (1)
 | Skill | Para qué |
